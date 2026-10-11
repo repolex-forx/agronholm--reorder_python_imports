@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/reorder_python_imports/commit/b34a28239d3abbe4f9523fe92409a0497f6ba97c",
       "git:hexsha": "b34a28239d3abbe4f9523fe92409a0497f6ba97c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/reorder_python_imports/commit/f3dfe379d2ea341c6cf54d926d4585b35dea9251",
